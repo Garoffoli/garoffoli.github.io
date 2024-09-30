@@ -1,0 +1,50 @@
+{
+    "name": "Hiryū",
+    "subtitle": "A source for all my favorite applications",
+    "description": "Welcome to my source! Here you'll find all of my favorite apps.",
+    "iconURL": "https://garoffoli.github.io/hiryu/source.jpg",
+    "headerURL": "https://garoffoli.github.io/hiryu/source.jpg",
+    "website": "https://garoffoli.github.io/hiryu/",
+    "tintColor": "#F54F32",
+    "featuredApps": [
+      "com.astafiev.app"
+    ],
+    "apps": [
+    {
+        "name": "iChan (Stable)",
+        "bundleIdentifier": "com.astafiev.app",
+        "developerName": "Zchandev",
+        "subtitle": "The best 4chan reader for iOS",
+        "localizedDescription": "The best 4chan reader for iOS.",
+        "iconURL": "https://example.com/myapp_icon.png",
+        "tintColor": "#F54F32",
+        "category": "social",
+        "versions": [
+  {
+    "version": "3.24.8291817",
+    "buildVersion": "5426",
+    "date": "2024-08-31",
+    "localizedDescription": "Current Release",
+    "downloadURL": "https://zchan.app/download/ios/iChan.ipa",
+    "size": 380200,
+    "minOSVersion": "13.0",
+    "maxOSVersion": "18.0"
+  }
+],
+        "appPermissions": {
+  "entitlements": [
+    "com.apple.developer.associated-domains",
+    "com.apple.developer.kernel.increased-memory-limit",
+    "com.apple.security.application-groups",
+    "aps-environment",
+    "keychain-access-groups"
+  ],
+  "privacy": {
+    "NSPhotoLibraryAddUsageDescription": "Required for saving media to selected album",
+    "NSPhotoLibraryUsageDescription": "Required for image and video attachments in your posts"
+  }
+}
+    }
+],
+    "news": []
+  }

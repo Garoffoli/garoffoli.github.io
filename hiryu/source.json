@@ -11,13 +11,13 @@
     ],
     "apps": [
     {
-        "name": "iChan (Stable)",
+        "name": "iChan",
         "bundleIdentifier": "com.astafiev.app",
-        "developerName": "Zchandev",
-        "subtitle": "The best 4chan reader for iOS",
+        "developerName": "Zchandev - Astafiev",
+        "subtitle": "Open source imageboard browser for 4chan and 2ch",
         "localizedDescription": "The best 4chan reader for iOS.",
-        "iconURL": "https://example.com/myapp_icon.png",
-        "tintColor": "#F54F32",
+        "iconURL": "https://garoffoli.github.io/hiryu/icons/iChan.png",
+        "tintColor": "#0094FF",
         "category": "social",
         "versions": [
   {
